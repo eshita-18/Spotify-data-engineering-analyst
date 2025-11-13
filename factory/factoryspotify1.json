@@ -1,0 +1,9 @@
+{
+	"name": "factoryspotify1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b008cd6f-5443-4000-b17f-b0fb5896c5ea",
+		"tenantId": "84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+	}
+}
